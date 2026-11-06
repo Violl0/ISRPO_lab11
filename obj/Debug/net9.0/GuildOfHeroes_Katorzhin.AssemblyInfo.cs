@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GuildOfHeroes_Katorzhin")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+204ecc6f2950f8657e5fdcca1a64ec081da55984")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20f7f1d8bdedaea26a8ade0d9739a547e6dd5df0")]
 [assembly: System.Reflection.AssemblyProductAttribute("GuildOfHeroes_Katorzhin")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GuildOfHeroes_Katorzhin")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
