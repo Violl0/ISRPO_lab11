@@ -1,6 +1,6 @@
 public class Hero {
     public string Name;
-    public int Health;
+    public int Health { get; private set; }
     public int Level;
     public int Experience;
 
