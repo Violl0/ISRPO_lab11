@@ -37,6 +37,9 @@ Console.WriteLine($"Количество: {third.Count}");
 Console.WriteLine($"Жанр: {third.Genre}");
 Console.WriteLine($"Цена: {third.Price}");
 
+book broken = new book("Бракованная запись", -5, "роман", 500);
+Console.WriteLine($"Создание книги с количеством -5: {broken.Count}");
+
 Console.WriteLine($"Количество Дюны до пополнения: {second.Count}");
 
 second.Restock(3);
